@@ -1,0 +1,29 @@
+# Credentials (NEVER commit this)
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+
+# Node.js
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+.claude/
+
+# Generated output
+*.html
+!fig_finder/report/templates/*.html
+!tests/fixtures/*.html
+quick-sell-data.json
+price_backup_*.xml
+price_update_results_*.json
+inventory-history.json
+*.csv

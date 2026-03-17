@@ -1,0 +1,9 @@
+{
+  "name": "bricklink-seller-tools",
+  "version": "1.0.0",
+  "description": "BrickLink store reports and analysis tools",
+  "private": true,
+  "dependencies": {
+    "dotenv": "^16.0.0"
+  }
+}
